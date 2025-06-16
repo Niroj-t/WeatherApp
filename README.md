@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A simple and elegant weather application that displays real-time weather information for any city using the [OpenWeatherMap API](https://openweathermap.org/api).
@@ -26,3 +27,7 @@ A simple and elegant weather application that displays real-time weather informa
 
    ```sh
    git clone https://github.com/yourusername/weather-app.git
+=======
+## Weather App
+Live Demo: https://weather-app-seven-iota-15.vercel.app
+>>>>>>> 20fefeef02d45f422cf9ba6f93c2173a297bed97
